@@ -1,0 +1,5 @@
+# Updated label mapping
+id2label = {
+    "0": "Flooded Scene",
+    "1": "Non Flooded"
+}
